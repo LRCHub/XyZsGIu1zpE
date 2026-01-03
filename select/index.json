@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いつわ",
+  "base_artist": "Mizore",
+  "createdAt": "2026-01-03T16:46:58.690402Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつわ",
+      "artist": "Mizore",
+      "has_synced": false,
+      "path": "select/pl_01_いつわ_Mizore.txt"
+    }
+  ]
+}
